@@ -10,6 +10,7 @@
 
 
 #### Certifications
+<div>
 <p float="left">
 <a href="https://www.credly.com/badges/db209e46-b9ec-40d4-b7d7-778f27986b73/public_url">
     <img src="https://images.credly.com/size/220x220/images/5e6f5247-1d61-4932-a5da-999a7feec067/isc2_cissp2.png"  
@@ -36,6 +37,15 @@
     <img src ="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" 
     width="100" alt="my badge" title="Click to verify"></a>        
 </p>
+</div>
+<iframe height='160' 
+        width='300' 
+        frameborder='0' 
+        allowtransparency='true' 
+        scrolling='no' 
+        src='https://www.strava.com/athletes/6010598/activity-summary/da410bd8cb8827804f38054ee2ac778c6afb212e'>
+</iframe>
+</div>
 
 <!--
 **cwolfe1/cwolfe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
