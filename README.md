@@ -1,7 +1,7 @@
 ### Hi there 👋 welcome to my profile!
 
 #### Current Project:
-        - Dynamic Network device inventory using Python and Cisco ISE API
+        - Dynamic Network device inventory database, with web front end using Python, Flask, Nornir, Gunicorn and Cisco ISE API
 
 #### Ongoing Project(s):
          - Maintaining Python Automated STIG Scanning tool
