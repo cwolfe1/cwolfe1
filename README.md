@@ -38,13 +38,7 @@
     width="100" alt="my badge" title="Click to verify"></a>        
 </p>
 </div>
-<iframe height='160' 
-        width='300' 
-        frameborder='0' 
-        allowtransparency='true' 
-        scrolling='no' 
-        src='https://www.strava.com/athletes/6010598/activity-summary/da410bd8cb8827804f38054ee2ac778c6afb212e'>
-</iframe>
+
 </div>
 
 <!--
