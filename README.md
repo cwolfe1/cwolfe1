@@ -31,11 +31,14 @@
     <img src ="https://images.credly.com/size/220x220/images/45e887ef-48d0-4310-ac6b-5ae656ceefd3/Cisco_Specialist_600.png" 
     width="100" alt="my badge" title="Click to verify"></a>
 <a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=LEP14SQ13JR41RGG">
-    <img src ="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logocasp_181cc6b4-05ec-4ddd-be1d-728ec7499b30.svg?sfvrsn=50eaf2dd_6" 
+    <img src ="https://images.credly.com/size/680x680/images/eda22a60-7b46-426c-89df-681b25600b9f/blob" 
     width="100" alt="my badge" title="Click to verify"></a>
 <a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=LEP14SQ13JR41RGG">
     <img src ="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" 
-    width="100" alt="my badge" title="Click to verify"></a>        
+    width="100" alt="my badge" title="Click to verify"></a>    
+<a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=LEP14SQ13JR41RGG">
+    <img src ="https://images.credly.com/size/680x680/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png"
+    width="100" alt="my badge" title="Click to verify"></a>
 </p>
 </div>
 
