@@ -30,13 +30,13 @@
 <a href="https://www.credly.com/badges/c086f8ad-9b3d-4f5a-a3b0-286311ce2bce/public_url">
     <img src ="https://images.credly.com/size/220x220/images/45e887ef-48d0-4310-ac6b-5ae656ceefd3/Cisco_Specialist_600.png" 
     width="100" alt="my badge" title="Click to verify"></a>
-<a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=LEP14SQ13JR41RGG">
+<a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=MNHM93R2GN44QHK5">
     <img src ="https://images.credly.com/size/680x680/images/eda22a60-7b46-426c-89df-681b25600b9f/blob" 
     width="100" alt="my badge" title="Click to verify"></a>
-<a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=LEP14SQ13JR41RGG">
+<a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=MNHM93R2GN44QHK5">
     <img src ="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" 
     width="100" alt="my badge" title="Click to verify"></a>    
-<a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=LEP14SQ13JR41RGG">
+<a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=MNHM93R2GN44QHK5">
     <img src ="https://images.credly.com/size/680x680/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png"
     width="100" alt="my badge" title="Click to verify"></a>
 </p>
