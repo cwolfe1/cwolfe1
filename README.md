@@ -13,7 +13,7 @@
 <div>
 <p float="left">
 <a href="https://www.credly.com/badges/db209e46-b9ec-40d4-b7d7-778f27986b73/public_url">
-    <img src="https://images.credly.com/size/220x220/images/5e6f5247-1d61-4932-a5da-999a7feec067/isc2_cissp2.png"  
+    <img src="https://images.credly.com/size/220x220/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png"
     width="100" alt="my badge" title="Click to verify"></a>
 <a href="https://www.credly.com/badges/a8752bca-bc7c-4f23-9828-c7498d64640f/public_url">
     <img src ="https://images.credly.com/size/220x220/images/4d054f39-f581-4442-8923-c5cd32720ef6/Classof2020-badge-600x600.png" 
